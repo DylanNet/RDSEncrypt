@@ -3,7 +3,7 @@
 LetsEncrypt-RDS.ps1 - SSL/TLS certificate for Remote Desktop Services.
  
 .DESCRIPTION  
-This script will create, renew and install a SSL/TLS Let's Encrypt certificate on a Remote Desktop Server.
+This script will create, renew and install a SSL/TLS Let's Encrypt certificate on a Remote Desktop Services.
  
 .OUTPUTS 
 Outputs event data to the event viewer.
@@ -12,7 +12,7 @@ Outputs event data to the event viewer.
 Written by: Dylan McCrimmon
 
 .LICENCE
-This Script is licenced under the MIT License.
+This Script is licenced under the MIT License. View https://github.com/DylanNet/RDSEncrypt for more infomation.
 
 Copyright 2019 Dylan McCrimmon
  
